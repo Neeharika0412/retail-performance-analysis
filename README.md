@@ -64,5 +64,3 @@ Overstocked Furniture items show low profitability despite high sales.
 
 This analysis provides a 360° view of retail performance and helps identify areas for cost optimization and strategic inventory management.
 The insights empower decision-makers to improve profitability, efficiency, and sales strategies.
-
-Do you also want me to create a ready-made README.md file (like I did with the SQL file) so you can upload it directly to your repository?
