@@ -1,0 +1,21 @@
+Order Date,Region,Category,Sales,Profit
+01-01-2020,East,Furniture,200,20
+16-01-2020,West,Technology,450,80
+31-01-2020,Central,Office Supplies,120,10
+15-02-2020,South,Technology,300,50
+01-03-2020,East,Furniture,500,90
+16-03-2020,West,Furniture,220,25
+31-03-2020,Central,Technology,350,70
+15-04-2020,South,Office Supplies,150,15
+30-04-2020,East,Technology,400,60
+15-05-2020,West,Furniture,600,100
+30-05-2020,Central,Furniture,330,35
+14-06-2020,South,Technology,210,22
+29-06-2020,East,Office Supplies,410,65
+14-07-2020,West,Technology,260,28
+29-07-2020,Central,Furniture,470,75
+13-08-2020,South,Furniture,510,95
+28-08-2020,East,Technology,390,45
+12-09-2020,West,Office Supplies,280,32
+27-09-2020,Central,Technology,320,38
+12-10-2020,South,Furniture,450,85
